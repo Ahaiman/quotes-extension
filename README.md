@@ -1,2 +1,2 @@
 # quotes-extension
-Chrome Extension
+Chrome Extension.
