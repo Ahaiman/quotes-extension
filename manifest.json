@@ -1,0 +1,23 @@
+{
+    
+    "manifest_version": 2,
+    "name": "My Extension",
+    "version": "1.0",
+
+
+    "description": "An extension to presen a random damous quatos",
+
+    "browser_action": {
+        "default_icon": {                 
+          "16": "icon.png"
+        },     
+        "default_title": "Google Mail",      
+        "default_popup": "popup.html"        
+    },
+
+    "permissions" : [
+        "http://api.forismatic.com/*"
+    ]
+    
+    
+}
